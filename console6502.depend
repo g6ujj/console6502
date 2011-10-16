@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1318444675 source:/home/ns/Dropbox/sim6502/console6502/main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"main.h"
+	"versionConsole.h"
+
+1318768521 /home/ns/Dropbox/sim6502/lib6502//CPU.h
+	"Memory.h"
+	"CPU.h"
+
+1318432137 /home/ns/Dropbox/sim6502/lib6502//lib6502.h
+	<string>
+	"CPU.h"
+	"Memory.h"
+	"version.h"
+
+1318774422 /home/ns/Dropbox/sim6502/lib6502//Memory.h
+
+1318443292 /home/ns/Dropbox/sim6502/lib6502//version.h
+
+1318432076 /home/ns/Dropbox/sim6502/console6502/version.h
+
+1318444512 /home/ns/Dropbox/sim6502/console6502/main.h
+	"lib6502.h"
+
+1318432798 /home/ns/Dropbox/sim6502/console6502/versionConsole.h
+
